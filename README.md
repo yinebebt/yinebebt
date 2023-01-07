@@ -25,7 +25,6 @@
 [<img align="left" alt="C" width="27px" src="src/cockroachdb.jpeg"/>][website]
 [<img align="left" alt="C" width="27px" src="src/icons8-mysql-logo.svg"/>][website]
 [<img align="left" alt="C" width="27px" src="src/icons8-mongodb.svg"/>][website]
-
 <br/>
 
 [<img align="left" alt="C" width="27px" src="src/icons8-git.svg"/>][website]
