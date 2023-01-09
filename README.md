@@ -7,7 +7,7 @@
 - 💬 Ask me about **Go**,**Python**, **IoT**, **...**
 ### Connect with me:
 
-[<img align="left" alt="yina | LinkedIn" width="26px" src="https://gitlab.com/Yinebeb-01/Yinebeb-01/-/blob/main/src/icons8-linkedin-circled.svg" />][linkedin]
+[<img align="left" alt="yina | LinkedIn" width="26px" src="https://raw.githubusercontent.com/Yinebeb-01/Yinebeb-01/-/blob/main/src/icons8-linkedin-circled.svg" />][linkedin]
 [<img align="left" alt="yina | Twitter" width="26px" src="src/icons8-twitter.svg" />][twitter]
 [<img align="left" alt="yina | Instagram" width="26px" src="src/icons8-instagram.svg" />][instagram]
 [<img align="left" alt="yina | YouTube" width="26px" src="src/icons8-youtube-48.png" />][youtube]
