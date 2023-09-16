@@ -47,10 +47,9 @@
 <br/>
 
 ---
-[website]:https://github.com/Yinebeb-01/
+[website]: https://www.shop.st-son.com/
 [twitter]: https://twitter.com/Sil_enat/
 [youtube]: https://www.youtube.com/@yinebebtariku1617/
 [instagram]: https://www.instagram.com/yina_st_son/
 [linkedin]: https://www.linkedin.com/in/yinebeb-tariku-4859361a2/
-[telegram]:https://www.t.me/stson_ece/
-
+[telegram]: https://www.t.me/stson_ece/
