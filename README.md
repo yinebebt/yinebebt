@@ -47,7 +47,7 @@
 <br/>
 
 ---
-[website]: https://www.shop.st-son.com/
+[website]: https://shop.st-son.com/
 [twitter]: https://twitter.com/Sil_enat/
 [youtube]: https://www.youtube.com/@yinebebtariku1617/
 [instagram]: https://www.instagram.com/yina_st_son/
