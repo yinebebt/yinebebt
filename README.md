@@ -1,4 +1,4 @@
-### Hi there, I'm Yinebeb Tariku [yina][website] 👋
+### Hi there, I'm [Yinebeb Tariku][website] 👋
 
 ## I'm a Computer Engineer and Software Developer
 - 🔭 I’m currently working on fullstack development 
@@ -11,29 +11,30 @@
 [<img align="left" alt="yina | LinkedIn" width="26px" src="src/icons8-linkedin-circled.svg" />][linkedin]
 [<img align="left" alt="yina | Twitter" width="26px" src="src/icons8-twitter.svg" />][twitter]
 [<img align="left" alt="yina | Instagram" width="26px" src="src/icons8-instagram.svg" />][instagram]
-[<img align="left" alt="yina | YouTube" width="26px" src="src/icons8-youtube-48.png" />][youtube]
-[<img align="left" alt="yina | YouTube" width="26px" src="src/icons8-telegram-app.svg" />][telegram]
 <br/>
 
 ### Languages and Tools:
 [<img align="left" alt="Golang" width="27px" src="src/icons8-golang.svg"/>][website]
 [<img align="left" alt="Intellij" width="27px" src="src/icons8-java.svg"/>][website]
-[<img align="left" alt="Pycahrm" width="27px" src="src/icons8-python.svg"/>][website]
 [<img align="left" alt="C" width="27px" src="src/icons8-c-programming.svg"/>][website]
 [<img align="left" alt="C" width="27px" src="src/icons8-c++.svg"/>][website]
+[<img align="left" alt="Pycahrm" width="27px" src="src/icons8-python.svg"/>][website]
+<br/>
+
 [<img align="left" alt="C" width="27px" src="src/icons8-postgresql.svg"/>][website]
 [<img align="left" alt="C" width="27px" src="src/cockroachdb.jpeg"/>][website]
 [<img align="left" alt="C" width="27px" src="src/icons8-mysql-logo.svg"/>][website]
+[<img align="left" alt="C" width="27px" src="src/sql.jpg"/>][website]
+<br/>
+
+
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
+[<img align="left" alt="React" width="26px" src="src/icons8-typescript.svg"/>][website]
+[<img align="left" alt="React" width="26px" src="src/icons8-angular.svg"/>][website]
 <br/>
 
 [<img align="left" alt="C" width="27px" src="src/icons8-git.svg"/>][website]
-[<img align="left" alt="C" width="27px" src="src/sql.jpg"/>][website]
-[<img align="left" alt="JavaScript" width="26px" src="src/icons8-javascript.svg" />][website]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
-<br/>
-
 [<img align="left" alt="C" width="27px" src="src/icons8-github.svg"/>][website]
 [<img align="left" alt="C" width="27px" src="src/icons8-gitlab.svg"/>][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>][website]
