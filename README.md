@@ -8,42 +8,42 @@
   
 ### Connect with me:
 
-[<img align="left" alt="yina | LinkedIn" width="26px" src="src/icons8-linkedin-circled.svg" />][linkedin]
-[<img align="left" alt="yina | Twitter" width="26px" src="src/icons8-twitter.svg" />][twitter]
-[<img align="left" alt="yina | Instagram" width="26px" src="src/icons8-instagram.svg" />][instagram]
+[<img align="left" alt="yina | LinkedIn" width="26px" src="https://raw.githubusercontent.com/Yinebeb-01/Yinebeb-01/main/src/icons8-linkedin-circled.svg" />][linkedin]
+[<img align="left" alt="yina | Twitter" width="26px" src="https://raw.githubusercontent.com/Yinebeb-01/Yinebeb-01/main/src/icons8-twitter.svg" />][twitter]
+[<img align="left" alt="yina | Instagram" width="26px" src="https://raw.githubusercontent.com/Yinebeb-01/Yinebeb-01/main/src/icons8-instagram.svg" />][instagram]
 <br/>
 
 ### Languages and Tools:
-[<img align="left" alt="Golang" width="27px" src="src/icons8-golang.svg"/>][website]
-[<img align="left" alt="Intellij" width="27px" src="src/icons8-java.svg"/>][website]
-[<img align="left" alt="C" width="27px" src="src/icons8-c-programming.svg"/>][website]
-[<img align="left" alt="C" width="27px" src="src/icons8-c++.svg"/>][website]
-[<img align="left" alt="Pycahrm" width="27px" src="src/icons8-python.svg"/>][website]
+[<img align="left" alt="Golang" width="27px" src="https://raw.githubusercontent.com/Yinebeb-01/Yinebeb-01/main/src/icons8-golang.svg"/>][website]
+[<img align="left" alt="Intellij" width="27px" src="https://raw.githubusercontent.com/Yinebeb-01/Yinebeb-01/main/src/icons8-java.svg"/>][website]
+[<img align="left" alt="C" width="27px" src="https://raw.githubusercontent.com/Yinebeb-01/Yinebeb-01/main/src/icons8-c-programming.svg"/>][website]
+[<img align="left" alt="C" width="27px" src="https://raw.githubusercontent.com/Yinebeb-01/Yinebeb-01/main/src/icons8-c++.svg"/>][website]
+[<img align="left" alt="Pycahrm" width="27px" src="https://raw.githubusercontent.com/Yinebeb-01/Yinebeb-01/main/src/icons8-python.svg"/>][website]
 <br/>
 
-[<img align="left" alt="C" width="27px" src="src/icons8-postgresql.svg"/>][website]
-[<img align="left" alt="C" width="27px" src="src/cockroachdb.jpeg"/>][website]
-[<img align="left" alt="C" width="27px" src="src/icons8-mysql-logo.svg"/>][website]
-[<img align="left" alt="C" width="27px" src="src/sql.jpg"/>][website]
+[<img align="left" alt="C" width="27px" src="https://raw.githubusercontent.com/Yinebeb-01/Yinebeb-01/main/src/icons8-postgresql.svg"/>][website]
+[<img align="left" alt="C" width="27px" src="https://raw.githubusercontent.com/Yinebeb-01/Yinebeb-01/main/src/cockroachdb.jpeg"/>][website]
+[<img align="left" alt="C" width="27px" src="https://raw.githubusercontent.com/Yinebeb-01/Yinebeb-01/main/src/icons8-mysql-logo.svg"/>][website]
+[<img align="left" alt="C" width="27px" src="https://raw.githubusercontent.com/Yinebeb-01/Yinebeb-01/main/src/sql.jpg"/>][website]
 <br/>
 
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="React" width="26px" src="src/icons8-typescript.svg"/>][website]
-[<img align="left" alt="React" width="26px" src="src/icons8-angular.svg"/>][website]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/Yinebeb-01/Yinebeb-01/main/src/icons8-typescript.svg"/>][website]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/Yinebeb-01/Yinebeb-01/main/src/icons8-angular.svg"/>][website]
 <br/>
 
-[<img align="left" alt="C" width="27px" src="src/icons8-git.svg"/>][website]
-[<img align="left" alt="C" width="27px" src="src/icons8-github.svg"/>][website]
-[<img align="left" alt="C" width="27px" src="src/icons8-gitlab.svg"/>][website]
+[<img align="left" alt="C" width="27px" src="https://raw.githubusercontent.com/Yinebeb-01/Yinebeb-01/main/src/icons8-git.svg"/>][website]
+[<img align="left" alt="C" width="27px" src="https://raw.githubusercontent.com/Yinebeb-01/Yinebeb-01/main/src/icons8-github.svg"/>][website]
+[<img align="left" alt="C" width="27px" src="https://raw.githubusercontent.com/Yinebeb-01/Yinebeb-01/main/src/icons8-gitlab.svg"/>][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>][website]
 <br/>
 
 ### My preferred IDEs:
 [<img align="left" alt="GOland IDE" width="27px" src="https://camo.githubusercontent.com/d0db72d1498c5aa34ef003bf7ca0c761e314d2fb25c791ac0c9244714cce351e/687474703a2f2f7265736f75726365732e6a6574627261696e732e636f6d2f73746f726167652f70726f64756374732f676f6c616e642f696d672f6d6574612f676f6c616e645f6c6f676f5f333030783330302e706e67"/>][website]
-[<img align="left" alt="Intellij IDE" width="27px" src="src/icons8-java.svg"/>][website]
-[<img align="left" alt="Visual Studio Code" width="26px" src="src/icons8-visual-studio-code-2019.svg" />][website]
+[<img align="left" alt="Intellij IDE" width="27px" src="https://raw.githubusercontent.com/Yinebeb-01/Yinebeb-01/main/src/icons8-java.svg"/>][website]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/Yinebeb-01/Yinebeb-01/main/src/icons8-visual-studio-code-2019.svg" />][website]
 <br/>
 
 ---
