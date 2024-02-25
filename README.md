@@ -13,13 +13,17 @@
 <br/>
 
 ### My programming languages of choice:
-[<img align="left" alt="Golang" width="27px" src="https://raw.githubusercontent.com/Yinebeb-01/Yinebeb-01/main/src/icons8-golang.svg"/>][website]
-[<img align="left" alt="Intellij" width="27px" src="https://raw.githubusercontent.com/Yinebeb-01/Yinebeb-01/main/src/icons8-java.svg"/>][website]
-[<img align="left" alt="C" width="27px" src="https://raw.githubusercontent.com/Yinebeb-01/Yinebeb-01/main/src/icons8-c++.svg"/>][website]
+[<img align="left" alt="Go" width="27px" src="https://raw.githubusercontent.com/Yinebeb-01/Yinebeb-01/main/src/icons8-golang.svg"/>][website]
+[<img align="left" alt="C++" width="27px" src="https://raw.githubusercontent.com/Yinebeb-01/Yinebeb-01/main/src/icons8-c++.svg"/>][website]
+<br/>
+
+[<img align="left" alt="Java" width="27px" src="https://raw.githubusercontent.com/Yinebeb-01/Yinebeb-01/main/src/icons8-java.svg"/>][website]
 [<img align="left" alt="Python" width="27px" src="https://raw.githubusercontent.com/Yinebeb-01/Yinebeb-01/main/src/icons8-python.svg"/>][website]
 <br/>
 
----
+[<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/Yinebeb-01/Yinebeb-01/main/src/icons8-typescript.svg"/>][website]
+
+
 [website]: https://shop.st-son.com/
 [twitter]: https://twitter.com/Sil_enat/
 [youtube]: https://www.youtube.com/@yinebebtariku1617/
