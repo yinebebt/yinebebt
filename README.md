@@ -1,10 +1,11 @@
-### Hi there, I'm [Yinebeb Tariku][website] 👋
+### Hi there, I'm [Yinebeb Tariku][linkedin] 👋
 
-## I'm a Softwware Engineer - Gopher.
-- 🔭 I’m currently working on fullstack development 
-- 👯 I’m looking to collaborate with other developers and gophers
+## I'm a Softwware Engineer.
+
+- 🔭 Currently working on fullstack development
+- 👯 Looking to collaborate with other developers
 - 💬 Ask me about **Go**, **Design Pattern**, **DDD**, and related...
-  
+
 ### Connect with me:
 
 [<img align="left" alt="yina | LinkedIn" width="26px" src="src/icons8-linkedin-circled.svg"/>][linkedin]
@@ -12,21 +13,10 @@
 [<img align="left" alt="yina | Instagram" width="26px" src="src/icons8-instagram.svg" />][instagram]
 <br/>
 
-### My programming languages of choice:
-[<img align="left" alt="Go" width="27px" src="src/icons8-golang.svg"/>][website]
-[<img align="left" alt="C++" width="27px" src="src/icons8-c++.svg"/>][website]
-<br/>
+![Yinebeb-01's Stats](https://github-readme-stats.vercel.app/api?username=Yinebeb-01&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-[<img align="left" alt="Java" width="27px" src="src/icons8-java.svg"/>][website]
-[<img align="left" alt="Python" width="27px" src="src/icons8-python.svg"/>][website]
-<br/>
+![Yinebeb-01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yinebeb-01&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-[<img align="left" alt="TypeScript" width="26px" src="src/icons8-typescript.svg"/>][website]
-
-
-[website]: https://shop.st-son.com/
 [twitter]: https://twitter.com/Sil_enat/
-[youtube]: https://www.youtube.com/@yinebebtariku1617/
 [instagram]: https://www.instagram.com/y_silenat/
 [linkedin]: https://www.linkedin.com/in/yinebeb-tariku/
-[telegram]: https://www.t.me/sil_enat/
