@@ -13,9 +13,9 @@
 [<img align="left" alt="yina | Instagram" width="26px" src="src/icons8-instagram.svg" />][instagram]
 <br/>
 
-![Yinebeb-01's Stats](https://github-readme-stats.vercel.app/api?username=Yinebeb-01&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Yinebeb-01's Stats](https://github-readme-stats.vercel.app/api?username=yinebebt&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![Yinebeb-01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yinebeb-01&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Yinebeb-01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yinebebt&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 [twitter]: https://twitter.com/Sil_enat/
 [instagram]: https://www.instagram.com/y_silenat/
